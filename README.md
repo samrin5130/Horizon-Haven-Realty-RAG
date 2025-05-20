@@ -14,8 +14,8 @@ A Retrieval-Augmented Generation (RAG) powered knowledge base assistant for Hori
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/horizon-haven-assistant.git
-cd horizon-haven-assistant
+git clone https://github.com/samrin5130/Horizon-Haven-Realty-RAG.git
+cd Horizon-Haven-Realty-RAG
 ```
 
 2. Install dependencies:
