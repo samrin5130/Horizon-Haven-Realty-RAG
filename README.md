@@ -1,6 +1,6 @@
 # Horizon Haven Realty Knowledge Assistant
 
-A Retrieval-Augmented Generation (RAG) powered knowledge base assistant for Horizon Haven Realty built with Streamlit, LangChain, and Chroma vector database.
+A Retrieval-Augmented Generation (RAG) powered knowledge base assistant for Horizon Haven Realty built with Streamlit, LangChain, and Chroma vector database. For this project, a knowledge base was created for a dummy real estate company, Horizon Haven Realty, using ChatGPT. 
 
 ## Features
 
