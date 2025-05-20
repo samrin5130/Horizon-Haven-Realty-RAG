@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 4. Install and run Ollama:
    - Download from [ollama.ai](https://ollama.ai)
-   - Run `ollama pull qwen3:4b` to download the model
+   - Run `ollama run qwen3:4b` to download the model
 
 ## Usage
 
